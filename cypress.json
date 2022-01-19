@@ -1,0 +1,18 @@
+{
+  "baseUrl": "http://www.webdriveruniversity.com",
+  "chromeWebSecurity": false,
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "ignoreTestFiles": "same*.js",
+  "env": {
+    "webdriveruni_homePage": "http://www.webdriveruniversity.com",
+    "first_name": "Macaustin",
+    "last_name": "Kwentua",
+    "email": "megboko@ymail.com"
+  },
+  "projectId": "trxc1a",
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporter-config.json"
+  } 
+}
